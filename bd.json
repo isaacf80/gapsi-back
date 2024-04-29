@@ -1,0 +1,22 @@
+{
+    "proveedores": [
+        {
+            "idProvider": 2,
+            "stock": 2,
+            "name": "bbbb",
+            "contact": "bbbbbbbbbb",
+            "active": 0,
+            "amount": 2,
+            "description": "ccccccccccccc"
+        },
+        {
+            "idProvider": 3,
+            "stock": 0,
+            "name": "aaaaa",
+            "contact": "bbbb",
+            "active": 1,
+            "amount": 11,
+            "description": "asdadaas"
+        }
+    ]
+}
