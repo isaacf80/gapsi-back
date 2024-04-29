@@ -1,4 +1,4 @@
-# ALberto Isaac Flores Ch.
+# Autor: Alberto Isaac Flores Ch.
 
 # Getting Started with Create React App
 
